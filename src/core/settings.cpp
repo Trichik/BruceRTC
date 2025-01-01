@@ -351,7 +351,7 @@ void setClock() {
       {"Paris",       [&]() { bruceConfig.setTmz(1);  }, bruceConfig.tmz==1  },
       {"Athens",      [&]() { bruceConfig.setTmz(2);  }, bruceConfig.tmz==2  },
       {"Moscow",      [&]() { bruceConfig.setTmz(3);  }, bruceConfig.tmz==3  },
-      {"Dubai",       [&]() { bruceConfig.setTmz(4);  }, bruceConfig.tmz==4  },
+      {"Ekaterinburg",       [&]() { bruceConfig.setTmz(5);  }, bruceConfig.tmz==5  },
       {"Hong Kong",   [&]() { bruceConfig.setTmz(8);  }, bruceConfig.tmz==8  },
       {"Tokyo",       [&]() { bruceConfig.setTmz(9);  }, bruceConfig.tmz==9  },
       {"Sydney",      [&]() { bruceConfig.setTmz(10); }, bruceConfig.tmz==10 },
